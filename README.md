@@ -113,17 +113,14 @@ dev_dependencies:
 
 ## 🖼️ Screenshots
 
-Add your screenshots here to show UI completion
-
 ### 📌 Dashboard UI Overview
-![Dashboard Overview](C:\Users\shiva\StudioProjects\task_ssvl\lib\assets\screenshot_dashboard.png)
+![image alt](https://github.com/nigamman/intern_sparksphere_task/blob/6b19e603ef02ade620daad5b293965976b9cf8bb/screenshot_dashboard.png)
 
 ### 📌 Loader Overview
-![Loader Overview](C:\Users\shiva\StudioProjects\task_ssvl\lib\assets\screenshot_loading.png)
+![image alt](https://github.com/nigamman/intern_sparksphere_task/blob/6b19e603ef02ade620daad5b293965976b9cf8bb/screenshot_loading.png)
 
-### 📌 Loader Overview
-
-![NewPage Overview](C:\Users\shiva\StudioProjects\task_ssvl\lib\assets\screenshot_new-page.png)
+### 📌 New-Page Overview
+![image alt](https://github.com/nigamman/intern_sparksphere_task/blob/6b19e603ef02ade620daad5b293965976b9cf8bb/new-page_screenshot.png)
 
 ---
 
