@@ -76,7 +76,7 @@ lib/
 ### Installation Steps
 
 ```bash
-git clone https://github.com/yourusername/sparksphere_dashboard.git
+git clone https://github.com/nigamman/intern_sparksphere_task
 cd task_ssvl
 flutter pub get
 flutter run
