@@ -11,14 +11,14 @@ class ComingSoonScreen extends StatelessWidget {
       child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-          Icon(Icons.construction, size: 64, color: Colors.orange),
+          Icon(Icons.construction, size: 65, color: Colors.orange),
       const SizedBox(height: 16),
       Text(
         '$sectionName Coming Soon!',
         style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
       ),
       const SizedBox(height: 8),
-      const Text('We are working on it.', style: TextStyle(color: Colors.grey)),
+      const Text('We are working on it. ', style: TextStyle(color: Colors.grey)),
         ],
       ),
     );
