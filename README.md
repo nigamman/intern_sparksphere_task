@@ -122,6 +122,8 @@ dev_dependencies:
 ### 📌 New-Page Overview
 ![image alt](https://github.com/nigamman/intern_sparksphere_task/blob/6b19e603ef02ade620daad5b293965976b9cf8bb/new-page_screenshot.png)
 
+### 📌 Loader Overview
+![image alt](https://github.com/nigamman/intern_sparksphere_task/blob/254f3fccc53054a14e94b4d6ac232a2bd7f3b49d/screenshot_cust-graph.png)
 ---
 
 ## ✅ Task Completion Checklist
