@@ -68,10 +68,10 @@ lib/
 
 ### Prerequisites
 
-✅ Flutter SDK (>=2.17.0)  
+✅ Flutter SDK : 3.24.4  
 ✅ Dart SDK  
 ✅ Git  
-✅ Android Studio or VS Code
+✅ Android Studio 
 
 ### Installation Steps
 
