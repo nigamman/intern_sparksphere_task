@@ -8,6 +8,7 @@ class ApiService {
   // Fetch users data and transform it to dashboard stats
   static Future<Map<String, dynamic>> fetchDashboardData() async {
     try {
+
       final futures = await Future.wait([
         http.get(Uri.parse('$baseUrl/users')),
         http.get(Uri.parse('$baseUrl/posts')),
